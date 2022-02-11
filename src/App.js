@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './ssets/App.css';
+import './assets/App.css';
 //librarys
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter, Route, Routes, Link} from 'react-router-dom'
@@ -9,6 +9,7 @@ import Clientes from './views/Clientes/Clientes';
 import Vehiculos from './views/Vehiculos/Vehiculos';
 import Inicio from './views/Inicio';
 import Navbar from './templates/Navbar';
+import RecuperarContrasenia from './views/RecuperarContrasenia/RecuperarContrasenia';
 
 function App() {
   return (
