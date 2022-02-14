@@ -6,6 +6,9 @@ import { HiUserCircle } from "react-icons/hi";
 
 
 const Navbar=()=>{
+
+
+
     return(
 
         <Container>
